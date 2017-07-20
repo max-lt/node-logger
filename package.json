@@ -1,0 +1,26 @@
+{
+  "name": "rogger",
+  "version": "1.0.0",
+  "description": "node logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/maxx-t/node-logger.git"
+  },
+  "keywords": [
+    "logger",
+    "report"
+  ],
+  "author": "maxx-t",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxx-t/node-logger/issues"
+  },
+  "homepage": "https://github.com/maxx-t/node-logger#readme",
+  "optionalDependencies": {
+    "cli-color": "^1.2.0"
+  }
+}
